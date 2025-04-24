@@ -46,11 +46,11 @@
 
     //easier way to do this
 
-    // foreach($foods as $food) {
+    foreach($foods as $food) {
 
-    //     echo $food . "<br>";
+        echo $food . "<br>";
 
-    // }
+    }
 
     //count
 
